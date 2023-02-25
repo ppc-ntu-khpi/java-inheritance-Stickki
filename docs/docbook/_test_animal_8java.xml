@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="__test_animal_8java" xml:lang="en-US">
+<title>C:/Users/palko/OneDrive/Документы/NetBeansProjects/java-inheritance-Stickki/src/test/TestAnimal.java File Reference</title>
+<indexterm><primary>C:/Users/palko/OneDrive/Документы/NetBeansProjects/java-inheritance-Stickki/src/test/TestAnimal.java</primary></indexterm>
+<simplesect>
+    <title>Classes    </title>
+        <itemizedlist>
+            <listitem><para>class <emphasis role="strong">Animal</emphasis></para>
+</listitem>
+            <listitem><para>class <emphasis role="strong">Dog</emphasis></para>
+</listitem>
+            <listitem><para>class <link linkend="_class_test_animal">TestAnimal</link></para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+</section>

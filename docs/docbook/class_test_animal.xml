@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_test_animal" xml:lang="en-US">
+<title>TestAnimal Class Reference</title>
+<indexterm><primary>TestAnimal</primary></indexterm>
+<simplesect>
+    <title>Static Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>static void <link linkend="_class_test_animal_1a554c9106662d051833f52a9b6a376802">main</link> (String[] args)</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Detailed Description</title>
+
+<para>Приклад використання класів </para>
+<para>
+Definition at line <link linkend="__test_animal_8java_source_1l00133">133</link> of file <link linkend="__test_animal_8java_source">TestAnimal.java</link>.</para>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_test_animal_1a554c9106662d051833f52a9b6a376802"/><section>
+    <title>main()</title>
+<indexterm><primary>main</primary><secondary>TestAnimal</secondary></indexterm>
+<indexterm><primary>TestAnimal</primary><secondary>main</secondary></indexterm>
+<para><computeroutput>static void TestAnimal.main (String[] args)<computeroutput>[static]</computeroutput></computeroutput></para>
+<para>Main</para>
+
+<para>
+                <formalpara>
+                    <title>
+Parameters</title>
+                    <para>
+                    <table frame="all">
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+<entry>args</entry><entry>
+<para>the args </para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                    </para>
+                </formalpara>
+                </para>
+<para>
+Definition at line <link linkend="__test_animal_8java_source_1l00142">142</link> of file <link linkend="__test_animal_8java_source">TestAnimal.java</link>.</para>
+</section>
+<para>
+The documentation for this class was generated from the following file:</para>
+C:/Users/palko/OneDrive/Документы/NetBeansProjects/java-inheritance-Stickki/src/test/<link linkend="__test_animal_8java">TestAnimal.java</link></section>
+</section>
